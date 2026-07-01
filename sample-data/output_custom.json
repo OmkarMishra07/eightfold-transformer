@@ -1,0 +1,80 @@
+[
+  {
+    "full_name": "Torvalds Linus",
+    "primary_email": "torvalds@osdl.org",
+    "phone": "+919876543210",
+    "github_url": null,
+    "skill_names": null,
+    "country": null,
+    "overall_confidence": 0.77,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "primary_email",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "phone",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      }
+    ]
+  },
+  {
+    "full_name": "Octocat Demo",
+    "primary_email": "octocat@github.com",
+    "phone": "+919123456780",
+    "github_url": null,
+    "skill_names": null,
+    "country": null,
+    "overall_confidence": 0.77,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "primary_email",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "phone",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      }
+    ]
+  },
+  {
+    "full_name": "Jane Doe",
+    "primary_email": "jane.doe@example.com",
+    "phone": "+14155550100",
+    "github_url": null,
+    "skill_names": null,
+    "country": null,
+    "overall_confidence": 0.77,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "primary_email",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "phone",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      }
+    ]
+  }
+]

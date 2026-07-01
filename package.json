@@ -1,0 +1,19 @@
+{
+  "name": "eightfold-candidate-transformer",
+  "version": "1.0.0",
+  "description": "Multi-source candidate data transformer - Eightfold Engineering Intern Assignment",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "tsx src/cli.ts",
+    "test": "tsx tests/run-tests.ts"
+  },
+  "dependencies": {
+    "ajv": "^8.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  }
+}

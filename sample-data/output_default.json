@@ -1,0 +1,158 @@
+[
+  {
+    "candidate_id": "08a255af-2c47-4750-8e1d-b405613cba53",
+    "full_name": "Torvalds Linus",
+    "emails": [
+      "torvalds@osdl.org"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Linux Foundation",
+        "title": "Fellow",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      }
+    ],
+    "overall_confidence": 0.77
+  },
+  {
+    "candidate_id": "79ba3232-d774-4320-920e-6eaaece31d4c",
+    "full_name": "Octocat Demo",
+    "emails": [
+      "octocat@github.com"
+    ],
+    "phones": [
+      "+919123456780"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "GitHub",
+        "title": "Mascot Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      }
+    ],
+    "overall_confidence": 0.77
+  },
+  {
+    "candidate_id": "f86acde4-f4da-465c-8099-f04cbe797ac6",
+    "full_name": "Jane Doe",
+    "emails": [
+      "jane.doe@example.com"
+    ],
+    "phones": [
+      "+14155550100"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Acme Corp",
+        "title": "Senior Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "emails",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      },
+      {
+        "field": "phones",
+        "source": "recruiter_csv",
+        "method": "direct_field"
+      }
+    ],
+    "overall_confidence": 0.77
+  }
+]
